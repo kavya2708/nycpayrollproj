@@ -1,0 +1,9 @@
+{
+	"name": "azuredfnycpayroll",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4477eddd-0782-47da-a1a8-d5ff5090cb0e",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
